@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: PoCAutomotive
+  name: PoCAutomotive
+  path: output/webApp.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 2048M
